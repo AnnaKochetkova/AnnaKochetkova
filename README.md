@@ -1,14 +1,22 @@
 ### :woman_technologist: About Me :
 
----
-
-Все привет! Меня зовут Анна.
-:metal: Я Junior Front-end developer.
-Хочу стать хорошим разработчиком и работать в крутой команде! :fire:
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+---
+
+**Все привет! Меня зовут Анна. Я Junior Front-end developer.**
+ 
+- :metal: Хочу работать в команде с крутыми разработчиками!
+
+- :seedling: Хочу писать чистый и читабельный код!
+
+- :fire: Стремлюсь к обучению новым технологиям!
+
+- :mailbox: Хочу писать крутые проекты
+
+
 
 ---
 
